@@ -1,0 +1,2 @@
+# extjs-modulenews
+test modulenews
